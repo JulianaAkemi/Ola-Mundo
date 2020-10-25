@@ -60,7 +60,7 @@ Linha 3 col 1|Linha 3 col 2|Linha 3 col 4
 Comando de código vai entre crases `System.out.println(s);`
 
 Trecho de código aninhado em 3 crases:
-``
+```
 public class Echo {
     public static void main (String[] args) {
         for (String s: args) {
