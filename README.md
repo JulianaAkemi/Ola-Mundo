@@ -39,7 +39,7 @@ Lista demarcada:
 
 
 Lista de tarefas:
-- [] Traço e brackets
+-[] Traço e brackets
 
 
 
