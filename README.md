@@ -43,7 +43,8 @@ Lista de tarefas:
 - [x] Tarefa finalizada Traço espaço brackets x brackets
 
 
-
+![Descrição da imagem em colchetes: Octo Queer](https://octodex.github.com/images/Octoqueer.png)
+[Link sem exclamação no início: Link da imagem:](https://octodex.github.com/octoqueer/)
 
 
 
