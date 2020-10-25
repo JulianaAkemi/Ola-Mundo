@@ -70,7 +70,8 @@ public class Echo {
 }
 ```
 
-
+Emojis são nomes dos emojis entre dois pontos :hand:
+[Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
 
 
