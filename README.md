@@ -38,6 +38,9 @@ Lista demarcada:
    - 3 espaços Traço
 
 
+Lista de tarefas:
+- [] Traço e brackets
+
 
 
 
