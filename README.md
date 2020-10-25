@@ -26,3 +26,32 @@ Lista numerada:
    1. 3 espaços na frente forma um sub-item
 1. Número e traço
 1.
+
+Lista demarcada:
+* Asterisco
+* Asterisco
+* Asterisco
+   * 3 espaços Asterisco
+- Traço
+- Traço
+- Traço
+   - 3 espaços Traço
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
