@@ -52,9 +52,7 @@ Tabela: primeiro título das colunas, separados por barra reta, para as linhas s
 Coluna 1| Coluna 2|Coluna 3
 ---|---|---|
 Linha 1 col 1|Linha 1 col 2|Linha 1 col 4
----|---|---|
 Linha 2 col 1|Linha 2 col 2|Linha 2 col 4
----|---|---|
 Linha 3 col 1|Linha 3 col 2|Linha 3 col 4
 
 
