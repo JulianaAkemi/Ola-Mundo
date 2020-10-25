@@ -39,7 +39,8 @@ Lista demarcada:
 
 
 Lista de tarefas:
--[] Traço e brackets
+- [ ] Traço espaço brackets espaço brackets
+- [x] Tarefa finalizada Traço espaço brackets x brackets
 
 
 
