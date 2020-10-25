@@ -44,7 +44,18 @@ Lista de tarefas:
 
 
 ![Descrição da imagem em colchetes: Octo Queer](https://octodex.github.com/images/Octoqueer.png)
-[Link sem exclamação no início: Link da imagem:](https://octodex.github.com/octoqueer/)
+[Link sem exclamação no início: Link da imagem](https://octodex.github.com/octoqueer/)
+
+
+Tabela: primeiro título das colunas, separados por barra reta, para as linhas são 3 hífens, barra reta, e hífens... para linha seguinte colunas, separados por barra reta
+
+Coluna 1| Coluna 2|Coluna 3
+---|---|---|
+Linha 1 col 1|Linha 1 col 2|Linha 1 col 4
+---|---|---|
+Linha 2 col 1|Linha 2 col 2|Linha 2 col 4
+---|---|---|
+Linha 3 col 1|Linha 3 col 2|Linha 3 col 4
 
 
 
