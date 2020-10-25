@@ -12,9 +12,17 @@ Material do **Curso de Git e GitHub**, disponível gratuitamente no canal do *Cu
 Bold: Double **asterisk** or double __underline__
 Strike Through: double ~~squiggle~~
 Titles:
+
 # H1 One Hashtag
 ## H2 2 Hashtags
 ### H3 3 Hashtags
 Horizontal line: 3 lines --- or 3 asterisks ***
 ---
 ***
+Lista numerada:
+1. Número e ponto
+1. Qualquer número e ponto
+1. Número e traço
+   1. 3 espaços na frente forma um sub-item
+1. Número e traço
+1.
