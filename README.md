@@ -3,6 +3,6 @@
 
 Linha adicionada diretamente pelo editor de texto nativo do GitHub.
 
-#Curso de Git e GitHub
+# Curso de Git e GitHub
 
 Material do **Curso de Git e GitHub**, disponível gratuitamente no canal do *Curso em Vídeo no YouTube*.
